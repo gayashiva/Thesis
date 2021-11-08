@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Ideas",
+  "attachmentFolderPath": "Files",
+  "promptDelete": false,
+  "vimMode": true,
+  "spellcheck": true,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
+}

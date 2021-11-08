@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "3ff9961af411d13f",
+    "type": "split",
+    "children": [
+      {
+        "id": "20664f4db1de01d7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ideas/Introduction.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a38ab993b8d34b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e03d1691d1f96914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aafc98b62440888d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2e14a93fed94776",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0f050a386104e76",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 174
+  },
+  "right": {
+    "id": "afec29296ed156ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "6181447a1a2c2317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c517582df37a36c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideas/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85a0ec7123d60221",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "20664f4db1de01d7",
+  "lastOpenFiles": [
+    "Ideas/Introduction.md",
+    "Ideas/Hypothesis.md",
+    "Ideas/PPT_script.md",
+    "Ideas/Presentation.md",
+    "Ideas/Ladakh weather.md",
+    "Ideas/Sublimation effect.md",
+    "Ideas/Icestupa experience.md",
+    "Ideas/Ice Stupa Competition.md",
+    "Ideas/Ice cone vs ice sheet.md",
+    "Ideas/Glacier grafting.md"
+  ]
+}
