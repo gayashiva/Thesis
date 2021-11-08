@@ -10,5 +10,5 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "gitPath": "/mingw64/bin/git"
+  "gitPath": ""
 }
