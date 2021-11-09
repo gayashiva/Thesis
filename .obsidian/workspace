@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Introduction.md",
-            "mode": "source"
+            "file": "Ideas/Spray radius.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Introduction.md",
+                "file": "Ideas/Spray radius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "20664f4db1de01d7",
   "lastOpenFiles": [
-    "Ideas/Introduction.md",
-    "Ideas/Hypothesis.md",
-    "Ideas/PPT_script.md",
-    "Ideas/Presentation.md",
-    "Ideas/Ladakh weather.md",
+    "Ideas/Spray radius.md",
+    "Ideas/Construction process.md",
     "Ideas/Sublimation effect.md",
+    "Ideas/PPT_script.md",
+    "Ideas/Ladakh weather.md",
+    "Ideas/Introduction.md",
     "Ideas/Icestupa experience.md",
     "Ideas/Ice Stupa Competition.md",
     "Ideas/Ice cone vs ice sheet.md",
-    "Ideas/Glacier grafting.md"
+    "Ideas/Hypothesis.md"
   ]
 }

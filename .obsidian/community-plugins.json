@@ -6,5 +6,7 @@
   "obsidian-citation-plugin",
   "url-into-selection",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-vimrc-support"
 ]

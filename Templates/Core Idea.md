@@ -1,8 +1,8 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 
-Status:#idea
+**Status:** 
 
-Tags:
+**Tags:** 
 
 # [[{{title}}]]
 
