@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "116fb1361b4ef485",
+        "id": "ac74d3c0d1c43563",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ideas/Hypothesis.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Hypothesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +114,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "116fb1361b4ef485",
+  "active": "ac74d3c0d1c43563",
   "lastOpenFiles": [
+    "Ideas/{{title}}.md",
+    "Ideas/Ice Stupa Competition.md",
+    "Ideas/Ice cone vs ice sheet.md",
     "Ideas/Hypothesis.md",
     "Ideas/Glacier grafting.md",
     "Ideas/Construction process.md",
-    "Books/Your Money or Your Life.md",
-    "conflict-files-obsidian-git.md",
-    "Books/Learn French.md",
-    "Books/Le Petit Prince.md",
-    "Books/The New Confessions of an Economic Hit Man.md",
-    "Books/The Motorcycle Diaries.md",
-    "Books/The Almanack of Naval Ravikant.md"
+    "Templates/Gratitude Journal.md",
+    "Obsidian.md",
+    "When.md",
+    "Bookmarklet.md"
   ]
 }
