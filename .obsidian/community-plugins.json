@@ -8,5 +8,9 @@
   "templater-obsidian",
   "obsidian-git",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "better-word-count",
+  "calendar",
+  "periodic-notes",
+  "obsidian-kindle-plugin"
 ]

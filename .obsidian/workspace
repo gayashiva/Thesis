@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "20664f4db1de01d7",
+        "id": "116fb1361b4ef485",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Spray radius.md",
+            "file": "Ideas/Hypothesis.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Spray radius.md",
+                "file": "Ideas/Hypothesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,23 +99,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "e79ed04135bccd50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "708bc5e7a2faaa15",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "20664f4db1de01d7",
+  "active": "116fb1361b4ef485",
   "lastOpenFiles": [
-    "Ideas/Spray radius.md",
-    "Ideas/Introduction.md",
     "Ideas/Hypothesis.md",
-    "Ideas/PPT_script.md",
-    "Ideas/Presentation.md",
-    "Ideas/Ladakh weather.md",
-    "Ideas/Sublimation effect.md",
-    "Ideas/Icestupa experience.md",
-    "Ideas/Ice Stupa Competition.md",
-    "Ideas/Ice cone vs ice sheet.md"
+    "Ideas/Glacier grafting.md",
+    "Ideas/Construction process.md",
+    "Books/Your Money or Your Life.md",
+    "conflict-files-obsidian-git.md",
+    "Books/Learn French.md",
+    "Books/Le Petit Prince.md",
+    "Books/The New Confessions of an Economic Hit Man.md",
+    "Books/The Motorcycle Diaries.md",
+    "Books/The Almanack of Naval Ravikant.md"
   ]
 }
