@@ -6,9 +6,7 @@
 
 # [[Automation methodology]]
 
-Since the [[ice radius]] and the [[spray radius]] depend on each other it is quite complicated to determine the actual freezing rate. The discharge rate determines the spray radius which determines the ice radius. I make the simple assumption that the ice radius is equal to the median of the total spray radius variation. 
-
-Freezing rate depends on the ice radius whereas discharge rate depends on the spray radius.
+Since the [[ice radius]] and the [[spray radius]] depend on each other it is quite complicated to determine the actual freezing rate. The discharge rate determines the spray radius which determines the ice radius which determines the freezing rate. I make the simple assumption that the ice radius is equal to the median of the total spray radius variation.
 
 To have enough area to freeze, we want to increase the ice radius but to reduce water loss, we want to decrease the spray radius. So to achieve a balance between increasing freezing rate and reducing water loss, I have come up with this new strategy:
 

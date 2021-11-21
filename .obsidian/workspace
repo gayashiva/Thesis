@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/Automation methodology.md",
+            "file": "Ideas/simplified energy balance.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Automation methodology.md",
+                "file": "Ideas/simplified energy balance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,17 +116,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "ac74d3c0d1c43563",
   "lastOpenFiles": [
+    "Ideas/simplified energy balance.md",
     "Ideas/Automation methodology.md",
     "Ideas/Ice cone vs ice sheet.md",
     "Ideas/Icestupa experience.md",
     "Ideas/Introduction.md",
     "Ideas/Ladakh weather.md",
     "Ideas/PPT_script.md",
-    "Ideas/simplified energy balance.md",
     "Ideas/Construction process.md",
     "Ideas/{{title}}.md",
     "Ideas/Ice Stupa Competition.md"
