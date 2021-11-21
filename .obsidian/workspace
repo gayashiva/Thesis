@@ -7,8 +7,11 @@
         "id": "ac74d3c0d1c43563",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ideas/Automation methodology.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ideas/Automation methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +120,15 @@
   },
   "active": "ac74d3c0d1c43563",
   "lastOpenFiles": [
+    "Ideas/Automation methodology.md",
+    "Ideas/Construction process.md",
     "Ideas/{{title}}.md",
     "Ideas/Ice Stupa Competition.md",
     "Ideas/Ice cone vs ice sheet.md",
     "Ideas/Hypothesis.md",
     "Ideas/Glacier grafting.md",
-    "Ideas/Construction process.md",
     "Templates/Gratitude Journal.md",
     "Obsidian.md",
-    "When.md",
-    "Bookmarklet.md"
+    "When.md"
   ]
 }
