@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/simplified energy balance.md",
+            "file": "Ideas/Spray radius.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/simplified energy balance.md",
+                "file": "Ideas/Spray radius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,20 +116,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "ac74d3c0d1c43563",
   "lastOpenFiles": [
-    "Ideas/simplified energy balance.md",
-    "Ideas/Automation methodology.md",
-    "Ideas/Ice cone vs ice sheet.md",
-    "Ideas/Icestupa experience.md",
-    "Ideas/Introduction.md",
-    "Ideas/Ladakh weather.md",
-    "Ideas/PPT_script.md",
-    "Ideas/Construction process.md",
+    "Ideas/Spray radius.md",
     "Ideas/{{title}}.md",
-    "Ideas/Ice Stupa Competition.md"
+    "Ideas/Ice Stupa Competition.md",
+    "Ideas/Ice cone vs ice sheet.md",
+    "Ideas/Hypothesis.md",
+    "Ideas/Glacier grafting.md",
+    "Ideas/Construction process.md",
+    "Templates/Gratitude Journal.md",
+    "Obsidian.md",
+    "When.md"
   ]
 }
