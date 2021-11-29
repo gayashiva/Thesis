@@ -17,9 +17,8 @@ r_i &= r_{i-1} + \Delta y \\
 \end{aligned}
 $$
 
-Assumptions $\Delta y ^ 3 = 0$ , $\Delta z = \Delta y$ 
+Assumptions $\Delta y ^ 3 = 0$ , $\Delta z = \Delta y$ , $EB = Q_{freeze/melt}$
 Difference in fountain on and off step
-
 
 ---
 # References
