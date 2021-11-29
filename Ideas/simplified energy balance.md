@@ -28,13 +28,9 @@
 ```python
 "solar_day": "2019-02-01"
 ```
-7. Desired Ice radius
+7. Mean Ice radius
 ```python
-"r_real": 8
-```
-8. Computed spray radius 
-```python
-"r_virtual": 17.09
+"r": 7
 ```
 
 

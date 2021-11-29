@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ac74d3c0d1c43563",
+        "id": "2271a4a51d436bf4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas/simplified energy balance.md",
+            "file": "Ideas/Ice Radius evolution.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/simplified energy balance.md",
+                "file": "Ideas/Ice Radius evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +119,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac74d3c0d1c43563",
+  "active": "2271a4a51d436bf4",
   "lastOpenFiles": [
+    "Ideas/Ice Radius evolution.md",
+    "Ideas/Untitled.md",
     "Ideas/simplified energy balance.md",
     "Ideas/Automation methodology.md",
     "Ideas/Ice cone vs ice sheet.md",
@@ -128,8 +130,6 @@
     "Ideas/Introduction.md",
     "Ideas/Ladakh weather.md",
     "Ideas/PPT_script.md",
-    "Ideas/Construction process.md",
-    "Ideas/{{title}}.md",
-    "Ideas/Ice Stupa Competition.md"
+    "Ideas/Construction process.md"
   ]
 }
