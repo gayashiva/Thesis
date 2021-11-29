@@ -1,6 +1,6 @@
 202111071333
 
-Status:#idea
+Status: #idea
 
 Tags:
 
