@@ -17,9 +17,11 @@
 11. Once, to gauge the excitement, I personally sat near our #Icestupa entrance and lost count watching more than 100 villagers entering our experiment site in an hour! The #Icestupa had become a pilgrimage site:
 12. Winning the Rolex awards for enterprise was the next milestone for the project. The award money helped us build the HIAL university to foster more solutions for mountain communities. The attention that it garnered helped us discover our Swiss partners @GlaciersAlive. Rolex movie:
 13. A vibrant exchange programme began between GlaciersAlive and HIAL. More than a dozen students from India and Switzerland have interned in GlaciersAlive and HIAL since 2017. Swiss students learn about Ladakh's frugal and sustainable lifestyle and Indian students learn about Switzerland's winter tourism industry. Hial link:
-15. To develop the AIR technology, I up skilled myself as a video editor, programmer, social media manager, fundraiser and a glaciologist. But I didn't choose this project at all. I was a lost soul when I was assigned this project by India Fellow 6 years ago. That is precisely what this project became for me, a calling that made me pursue 
-16.  have culminated now in a new water storage technology. As I speak, we build the first ever icestupa that is 
-17.  
+16. AIRs are being used as a tool to revive several mountain villages in the Andes and the Himalayas. In the last 3 winters alone, more than 26 villages made around 50 icestupas which provided an additional 120 million litres of meltwater for their plantations. AIR photo:
+17. However, none of this means that AIRs are a good way to achieve winter water storage. Our research shows that AIRs generate too much wastewater. They are a
+18. This project knows no end. Being part of it feels like I am trekking up a mountain, looking back I see the enormous distance I have covered. Looking forward, I see the next snow capped peak glistening in the sunlight. 
+19. But I didn't choose this project at all. I was a lost soul when I was assigned this project by India Fellow 6 years ago. That is precisely what this project became for me, a calling that drove me to excel in several careers.
+20. I have lingered in the past for too long now. I feel my anxiety rising as I realise the little time I have left to make this long journey ahead. However, the sky is finally clear and the path well lit so I am confident that I can make this journey to its completion.
 
 
 
