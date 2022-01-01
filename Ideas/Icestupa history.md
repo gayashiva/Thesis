@@ -13,7 +13,9 @@
 6. To prove his hypothesis, Sonam designed fountain systems to make conical AIRs and deployed them in the worst possible location: near the shores of the river Indus. When this AIR survived longer than any other, the whole world voted with their wallets to kick start the era of AIRs:
 7. The first working prototype of Sonam's AIR was managed in a unique way. The funds from the crowdfunding campaign were distributed by the Phyang monastery to fund the living expenses of villagers and volunteers constructing the AIR. I was one such volunteer working with engineers, monks, farmers and students watching in awe how our small actions transformed these ice structures. 
 8.  In 2015, to commemorate the success of the first prototype, 1000 villagers planted 5 saplings each. A buddhist prayer ceremony accompanied the plantation ceremony to transform AIRs into #Icestupas:
-9. Over the next few winters, I saw the #Icestupas evolve from Sonam and Chewang's crazy idea to a living entity filling villagers with hopes and dreams. Once, to gauge the excitement, I personally sat near our #Icestupa entrance for an hour and counted around than 100 villagers visiting our experiment sites per hour! 
+9. Over the next few winters, I saw AIRs evolve from Chewang and Sonam's crazy idea to a living entity filling villagers with hopes and dreams. Once, to gauge the excitement, I personally sat near our #Icestupa entrance and lost count watching more than 100 villagers entering our experiment site in an hour! The #Icestupa had become a pilgrimage site:
+10. Winning the Rolex awards for enterprise in 2017 was the next milestone for the project. The award money helped us build the HIAL university to foster more solutions for mountain communities. The attention that it garnered helped us discover our Swiss partners @GlaciersAlive. Rolex movie:
+11. A vibrant exchange programme began between GlaciersAlive and HIAL. Every winter, students from Ladakh went to Switzerland to construct #Icestupas and learn about winter tourism in Academia Engiadina. 
 
 
 
