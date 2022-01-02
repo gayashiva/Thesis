@@ -5,6 +5,8 @@
 **Tags:** 
 
 # [[Paper1 tweet]]
+New paper out today in @FrontierEarthSci by myself and amazing collaborators, incl. Hoelzle, Lehning, @Wangchuk66, @jordi_bolibar, Oerlemans and Keller, on the observed differences in ice volume evolution of #Icestupas due to their different weather conditions.
+
 In our new study, we compare the #icestupa volume evolution in Indian Himalayas (#Ladakh) and Swiss Alps (#Guttannen) to identify the surface processes that make artificial ice reservoirs (AIRs) in arid high-altitude regions grow larger and survive longer.
 
 ![](https://paper-attachments.dropbox.com/s_C3DE2D3153A22C1DF9DEB684D5FF9390CD06A5505A0780C4E0A536929698A6CD_1640934664132_2AIR.jpg)
