@@ -10,17 +10,16 @@ New paper out today in @FrontierEarthSci by myself and amazing collaborators, in
 
 ![](https://paper-attachments.dropbox.com/s_C3DE2D3153A22C1DF9DEB684D5FF9390CD06A5505A0780C4E0A536929698A6CD_1640934664132_2AIR.jpg)
 
-Water losses were very high due to excess fountain discharge. The max freezing rate of the Indian Icestupa was half that of its discharge rate. So water loss reduction is possible if fountain discharge is automated based on model suggestions.
+Water losses were very high due to excess fountain discharge. Vapour losses were 2x higher for the Indian site. The max freezing rate of the Indian Icestupa was half that of its discharge rate.
 
-![](https://paper-attachments.dropbox.com/s_C3DE2D3153A22C1DF9DEB684D5FF9390CD06A5505A0780C4E0A536929698A6CD_1640934771700_eb.png)
+![[mb.png]]
 
-We estimate that the freezing rates in Indian site was an order of magnitude higher than that of the Swiss site due to colder, drier and less cloudy weather conditions. 
-
-![](https://paper-attachments.dropbox.com/s_C3DE2D3153A22C1DF9DEB684D5FF9390CD06A5505A0780C4E0A536929698A6CD_1640934751834_icev_slides_1.jpg)
+The freezing rates in Indian site was an order of magnitude higher than that of the Swiss site due to colder, drier and less cloudy weather conditions. The Indian fountain's higher spray radius enhanced both its freezing and melting energy. 
+![[icev_slides_1.jpg]]
 
 Sublimation was responsible for this difference in freezing rates. So the Indian AIR gained more volume DUE to higher vapour losses and NOT inspite of it. The conical shape of the #Icestupas reduced the direct shortwave radiation impact for both #Icestupas by a factor of 5.
 
-![](https://paper-attachments.dropbox.com/s_C3DE2D3153A22C1DF9DEB684D5FF9390CD06A5505A0780C4E0A536929698A6CD_1640934764381_mb.png)
+![[eb.png]]
 
 
 The model and timelapses of some AIRs can be found here: https://github.com/gayashiva/air_model
