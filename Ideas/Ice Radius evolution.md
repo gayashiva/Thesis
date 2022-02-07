@@ -20,5 +20,7 @@ $$
 Assumptions $\Delta y ^ 3 = 0$ , $\Delta z = \Delta y$ , $EB = Q_{freeze/melt}$
 Difference in fountain on and off step
 
+Calculated radius evolution from camera(rad_cam.py) but fountain height change varies radius unpredictably due to wind. Another possibility is that fountain aperture is also changed when fountain height is varied. Without faintain height variation, radius evolution is possible to be modelled. 
+
 ---
 # References
