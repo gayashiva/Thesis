@@ -1,8 +1,8 @@
 202111211158
 
-**Status:** 
+**Status:** #process
 
-**Tags:** 
+**Tags:** #methods #automation
 
 # [[Automation methodology]]
 
@@ -13,7 +13,7 @@ To have enough area to freeze, we want to increase the ice radius but to reduce 
 1. Choose the desired [[ice radius]] (median spray radius). For guttannen, this is 8m. This desired ice radius corresponds to the desired freezing rate. So 8m ice radius corresponds to 9 l min-1 freezing rate for Guttannen. So median spray radius is 8m.
 2. Assuming fountain runtime is half of the freezing duration (Jan and Feb). The spray radius is greater than the ice radius for a quarter of the freezing duration. We can ensure this using the 25th percentile values of temperature, humidity and mean wind speed (since variation is high here). Lets call these values temp_25, rh_25 and wind_mean respectively. These values correspond to the critical weather conditions beyond which the spray radius is greater than the desired ice radius.
 3. Using the [[simplified energy balance]], we find the critical freezing rate per m2 for our critical weather conditions. From the desire discharge rate and the critical freezing rate we obtain the [[virtual radius]] required. For Guttannen, this is 17 m.
-4. We scale the [[simplified energy balance]] using this virtual radius to obtain the recommended discharge variation required to support our desired ice radius.  
+4. We scale the [[simplified energy balance]] using this virtual radius to obtain the recommended discharge variation required to support our desired ice radius. 
 
 
 
