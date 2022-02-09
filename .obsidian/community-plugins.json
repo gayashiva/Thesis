@@ -3,7 +3,6 @@
   "maximise-active-pane-obsidian",
   "obsidian-admonition",
   "sliding-panes-obsidian",
-  "obsidian-citation-plugin",
   "url-into-selection",
   "templater-obsidian",
   "obsidian-git",
@@ -13,5 +12,6 @@
   "calendar",
   "periodic-notes",
   "obsidian-kindle-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-citation-plugin"
 ]
