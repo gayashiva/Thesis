@@ -29,7 +29,9 @@ d. Penetrating radiation and refreezing is assumed to be negligible
 1. **Shape**: Algorithm of the conical shape evolution of icestupa was implemented from Balasubramanian22. This converts the surface mass balance output of the cosipy model into volume changes of icestupa. Mean density of all the layers is used to compute the volume instead of constant ice density used in the old model. The initial height of the cone was provided using the initial_snowheight_constant or the initial_glacier_height parameters during the initialisation step along with the spray radius of the fountain.
 2.  **Freezing process**: Algorithm for the surface freezing process instigated by fountain discharge or rain was implemented from Balasubramanian22. Cold content of the surface layer drives this process.
 
-
+## Advantages
+1. **Albedo**: Due to separation of rain and snow, the corresponding albedo feedback is better resolved.
+2. 
 ---
 # References
 1. [@balasubramanianInfluenceMeteorologicalConditions2022]
