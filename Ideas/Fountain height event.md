@@ -7,7 +7,7 @@
 # [[Fountain height event]]
 Whenever the fountain height ($H_f$) is increased by a meter, there is a decrease in the discharge rate ($Q_f$). This can be represented through the Bernoulli equation as:
 
-$$\rho*g*H_f + 1/2*\rho*v_1^2 = \rho*g*(H_f+1) + 1/2*\rho*v_2^2$$
+$$\rho*g*H_f + 2/2*\rho*v_1^2 = \rho*g*(H_f+1) + 1/2*\rho*v_2^2$$
 $$v=Q_f/A$$
 $$A=/pi*dia^2$$
 
