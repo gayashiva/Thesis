@@ -2,7 +2,7 @@
 
 Status: ✔
 
- Tags: #thesis
+ Tags:
 
 # [[Introduction]]
 
