@@ -1,8 +1,6 @@
 202111211158
 
-**Status:** #process
-
-**Tags:** #methods #automation
+**Tags:** #methods, #technology
 
 # [[Automation methodology]]
 

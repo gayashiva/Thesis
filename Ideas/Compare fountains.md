@@ -1,8 +1,6 @@
 202112041037
 
-**Status:** 
-
-**Tags:** 
+**Tags:** #technology 
 
 # [[Compare fountains]]
 
