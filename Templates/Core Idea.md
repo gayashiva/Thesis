@@ -1,10 +1,7 @@
-{{date:YYYYMMDD}}{{time:HHmm}}
-
-**Status:** 
-
-**Tags:** 
 
 # [[{{title}}]]
+Timestamp: {{date:YYYYMMDD}}{{time:HHmm}}
+**Tags:** 
 
 
 
