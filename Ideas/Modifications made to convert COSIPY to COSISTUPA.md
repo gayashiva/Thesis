@@ -1,8 +1,6 @@
 202204070921
 
-**Status:** 
-
-**Tags:** 
+**Tags:** #model 
 
 # [[Modifications made to convert COSIPY to COSISTUPA]]
 ## Inputs added

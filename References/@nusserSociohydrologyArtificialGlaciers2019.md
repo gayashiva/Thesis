@@ -29,7 +29,11 @@ year: 2018
 - Can use potential irrigation cycle metric and area data from this pub.
 - There are great differences in ice accumulation among investigated structures.
 - Underestimates [[ice stupa]] volume as 150 m3
-- Due to the complex set of variables, the environmental conditions for optimal functioning of ice re
+- Due to the complex set of variables, the environmental conditions for optimal functioning of [[AIR]] remain uncertain.
+- Agriculture in [[Ladakh]] is primarily for subsistence.
+- This practice can be traced back to the 1960's
+- Benefits include increase of cash crop production and tree plantations.
+- Claims [[AIR]] only reduce water scarcity in spring.
 
 
 
