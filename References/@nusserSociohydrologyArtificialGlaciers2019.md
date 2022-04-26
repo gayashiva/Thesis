@@ -6,7 +6,7 @@ year: 2018
 
 202204261525
 
-**Tags:** #technology , #society , #history
+**Tags:** #technology , #history
 
 # [[@nusserSociohydrologyArtificialGlaciers2019]]
 

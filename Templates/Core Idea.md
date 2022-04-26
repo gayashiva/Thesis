@@ -1,5 +1,5 @@
 
-Timestamp: {{date:YYYYMMDD}}{{time:HHmm}}
+{{date:YYYYMMDD}}{{time:HHmm}}
 **Tags:** 
 
 # [[{{title}}]]

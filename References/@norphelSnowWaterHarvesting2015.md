@@ -8,7 +8,7 @@ year: 2014
 
 **Status:** 
 
-**Tags:** 
+**Tags:** #history
 
 # [[@norphelSnowWaterHarvesting2015]]
 - Only 15 % of the cultivated land is dependent on river water
