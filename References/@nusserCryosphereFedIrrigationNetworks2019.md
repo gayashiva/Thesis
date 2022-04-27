@@ -6,7 +6,7 @@ year: 2018
 
 
 Timestamp: 202204261734
-**Tags:** #history
+**Tags:** #history, #technology
 
 # [[@nusserCryosphereFedIrrigationNetworks2019]]
 1. The effect of cryosphere change on local meltwater-dependent irrigation practices has received much less attention [[@kreutzmannWaterTowersMankind1998]], even though dependence on glacier meltwater and vulnerability to cryosphere dynamics are of serious concern in all mountain areas.
@@ -24,5 +24,7 @@ Point 1 explaind need of research
 Point 2 can be used as a format to put IPCC findings in context of [[AIR]]
 Point 3 and 6 quantifies the dependence of [[irrigation]] on cryosphere fed streams
 Point 4 quantifies decline of cryosphere in [[Ladakh]]
+Point 7 quantifies cost of [[AIR]] #technology  
+Point 8 quantifies benefits of [[AIR]] #technology  
 
 
