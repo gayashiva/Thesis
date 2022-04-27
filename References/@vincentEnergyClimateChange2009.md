@@ -8,7 +8,7 @@ year: 2009
 
 **Status:** 
 
-**Tags:** 
+**Tags:** #history 
 
 # [[@vincentEnergyClimateChange2009]]
 Title: Artificial Glaciers: a high altitude cold desert water conservation technique, Pg 62
