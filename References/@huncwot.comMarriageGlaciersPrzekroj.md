@@ -5,7 +5,7 @@ year:
 ---
 
 202205120947
-**Tags:**
+**Tags:** #history
 
 # [[@huncwot.comMarriageGlaciersPrzekroj]]
 1.  It is not known who started the practice of glacier grafting, but according to oral history it is as old as the local communities.  

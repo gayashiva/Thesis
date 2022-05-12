@@ -7,5 +7,5 @@
   "headerAlt": false,
   "orienation": "mixed",
   "stackingEnabled": true,
-  "smoothAnimation": true
+  "smoothAnimation": false
 }

@@ -1,8 +1,8 @@
 202111291447
 
-**Status:** #include
+**Status:** 
 
-**Tags:** #paper1
+**Tags:** 
 
 # [[Ice Radius evolution]]
 

@@ -6,7 +6,7 @@ year: 2020
 
 
 202205121015
-**Tags:** 
+**Tags:** #history
 
 # [[@GlacierMarriagesPakistan2020]]
 1.  The people of Gligit Baltistan believe that glaciers are living entities. That’s why a combination of female and male ice was absolutely necessary. The male glacier – called ‘po gang’ locally – gives off little water and moves slowly, while a ‘female glacier’ – or ‘mo gang’ – is a growing glacier that gives off a lot of water
