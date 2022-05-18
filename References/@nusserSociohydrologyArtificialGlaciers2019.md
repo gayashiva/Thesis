@@ -23,7 +23,7 @@ year: 2018
 11. Quantifies glacier retreat in the Himalayas
 12. Although glacier decrease is not as pronounced as in other Himalayan regions, even small climatic shifts influence water storage and runoff in cold-arid regions, crucial for the functioning of [[irrigation]] systems  [[@barnettPotentialImpactsWarming2005]], [[@parveenIRRIGATIONUPPERHUNZA2015]]
 13. Due to the short growing period, [[Ladakh]] is a single cropping area with barley and wheat as important staples, complemented by vegetables, pulses and oil seeds. Depending on altitudinal position, [[irrigation]] with complete flooding of field (2-5 cm water column) starts between March and April prior to the melting of high altitude glaciers.
-14. In order to cope with recurrent water  scarcity, water harvesting technologies and community arrangements have been developed. These include the zing, which are small ponds in close proximity to the cultivated fields, where water is collected temporarily for irrigation. Other traditional water storage techniques include small barrier walls for "snow harvesting" in the upper catchments. (Dawa et all 2000)
+14. In order to cope with recurrent water  scarcity, water harvesting technologies and community arrangements have been developed. These include the zing, which are small ponds in close proximity to the cultivated fields, where water is collected temporarily for irrigation. Other traditional water storage techniques include small barrier walls for "snow harvesting" in the upper catchments. (Dawa et al 2000)
 15. According to oral history and corona imagery from 1969, the first cascade ice reservoirs are older than 50 years and can be found in Phuktse and Igoo.
 
 ---
