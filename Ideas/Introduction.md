@@ -12,7 +12,7 @@ Take Ladakh, a high-altitude desert region in northern India. It sits in the rai
 
 In just the last 3 winters, more than 500 farmers built around 50 icestupas storing more than 120 million litres in 26 villages of this region. And what’s more, they did not receive any training, money or materials to do this. This shows how cheap and easy Icestupas are to build. 
 
-A typical Icestupa just requires a fountain nozzle mounted on a supply pipeline. The water source is usually a high altitude lake or glacial stream. Due to the altitude difference between the pipeline input and fountain output, water ejects from the fountain nozzle as droplets that eventually lose their energy and accumulate as ice.  The fountain is manually activated during the winter nights and is raised, through addition of metal pipes, when significant ice accumulates below.
+A typical Icestupa just requires a fountain nozzle mounted on a supply pipeline. The water source is usually a spring or a glacial stream. Due to the altitude difference between the pipeline input and fountain output, water ejects from the fountain nozzle as droplets that eventually lose their energy and accumulate as ice.  The fountain is manually activated during the winter nights and is raised, through addition of metal pipes, when significant ice accumulates below.
 
 Constructing ice reservoirs is not new, in the past these were built as ice sheets much higher up the mountains, making them difficult to manage. Now, as ice cones, they are built next to where the water is needed most, right on the outskirts of villages, near their fields. So the shape was the key innovation that made them particularly inexpensive and easy to maintain.
 
