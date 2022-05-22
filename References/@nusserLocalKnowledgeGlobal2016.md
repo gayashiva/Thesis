@@ -9,7 +9,7 @@ year: 2015
 **Tags:** #history
 
 # [[@nusserLocalKnowledgeGlobal2016]]
-1. [[Irrigation]] is a human practice that exists at the intersection of social cooperation, livelihood strategies, political organization and local environmental knowledge. (Baghel, 2014)
+1. [[irrigation]] is a human practice that exists at the intersection of social cooperation, livelihood strategies, political organization and local environmental knowledge. (Baghel, 2014)
 2. Links climatic factors to the small size and altitude of glaciers in Ladakh.
 3. Agrarian land use remains the economic mainstay of the population (Dame and Nusser 2008)
 4. This seasonal water scarcity makes it essential to provide supplementary [[irrigation]] in order to take advantage of the complete growing season.
