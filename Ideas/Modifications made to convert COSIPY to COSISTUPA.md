@@ -5,8 +5,8 @@
 # [[Modifications made to convert COSIPY to COSISTUPA]]
 ## Inputs added
 1. **DISCHARGE** (litres per minute): Fountain discharge rate
-2. **FDIF** (-): Diffuse fraction of solar radiation from Fdif_Neustift function in radCor.py
-3. **BETA** (radians): Solar elevation angle from solarFParallel in radCor.py
+2. **BETA** (radians): Solar elevation angle from solarFParallel in radCor.py
+3. **CLD**: Cloudiness index used to separate global solar radiation
 
 ## Parametrizations changed/introduced:
 1. **make_icestupa**:
@@ -29,7 +29,8 @@ d. Penetrating radiation and refreezing is assumed to be negligible
 
 ## Advantages
 1. **Albedo**: Due to separation of rain and snow, the corresponding albedo feedback is better resolved.
-2. 
+2. **Removal of surface layer thickness parameter**: DX was a very sensitive parameter of the model and the model generally performed poorly when it was not calibrated with field observations. This is no longer the case as spatial temperature variation is better resolved.  
+3. **AIR density and surface characterisitics**: Since Cosistupa retains information about the density of each layer and implements a densification algorithm to evolve it temporally, better quantification of AIR density is possible. Moreover, this also enables better estimation of surface albedo. 
 ---
 # References
 1. [@balasubramanianInfluenceMeteorologicalConditions2022]
