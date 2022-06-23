@@ -17,14 +17,9 @@ This is a document detailing the common purpose and vision of all our projects (
 We all believe that our projects have the potential to realize their respective purposes. But certain common requirements need to be satisfied to attain these decade long goals. These are :
 
 ## Requirements
-1. Technology development :
-2. Worldwide perspective : All our goals are worldwide problems. Therefore, our implementation strategies needs to be applicable 
-3. Financial and Environmental Sustainability :
-4. 
-
-we also know the executing especially goals 1 and 2 could easily take upto a decade. Moreover, our project goals requires worldwide participation but all of our projects are regional and as of now have rudimentary/weak channels of collaboration.
-
-But, according to me, certain requirements need to be satisfied to sustain such longterm projects . I base this judgement primarily on some requirements that I believe none of our projects satisfy
+1. **Technology development** : The technology required to achieve our project goals do not exist. The development process requires decade long effortskilled oversight and sufficient finances to customize our offerings in a cost-sensitive and reliable manner. Across our projects, we already have considerable skills to do this. *But how can we encourage their long term involvement?*
+2. **Worldwide perspective** : All our goals are worldwide problems. Therefore, our implementation/communication strategies needs to enable climate action irrespective of the location. This requires exchange of people, ideas and resources across countries. *How can we make collaboration between the projects stronger?*
+3. **Financial Sustainability** :  All our projects run on grant money. But, as we have realized by now, grants do not provide decade long runway and therefore disincentivize longterm goals. Moreover, grants direct each of our projects towards what the funders want rather than what the communities require. This makes each of our projects heavily reliant on the current motivation of funding agencies and the capacity of the team to find/renew grant applications. *How can we fund our projects towards community-driven solutions?*
 
 
 
