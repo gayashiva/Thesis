@@ -1,8 +1,8 @@
 
 
-# [[Some requirements fmission]]
+# [[Requirements to achieve our shared vision]]
 
-This is a document detailing the common purpose and mission of all our projects (GlaciersAlive, Ice Stupa/HIAL and Batken project/UNIFR). I have purposefully left out the implementation strategies used by each project and rather focus on the common requirements that each of these projects share. The intention for doing so is to critically analyse the future path of each of the projects. Personally, this represents my attempt to seek common ground between all these projects and find new ways for my future involvement which ensure realisation of our shared goals.
+This is a document detailing the common purpose and mission of all our projects (GlaciersAlive/Cover project, Ice Stupa/HIAL and Central asia project/UNIFR). I have purposefully left out the implementation strategies used by each project and rather focus on the common requirements that each of these projects share. The intention for doing so is to critically analyse the future path of each of the projects. Personally, this represents my attempt to seek common ground between all these projects and find new ways for my future involvement which ensure realisation of our shared goals.
 
 ## Purpose
 1. Support sustainable mountain development
@@ -20,6 +20,7 @@ We all believe that our projects have the potential to realize their respective 
 2. **Worldwide perspective** : All our goals are worldwide problems. Therefore, our implementation/communication strategies needs to enable climate action irrespective of the location. This requires exchange of people, ideas and resources across countries. *How can we ensure sufficient collaboration between the projects?*
 3. **Financial Sustainability** :  All our projects run on grant money. But, as we have realized by now, grants do not provide decade long runway and therefore disincentivize longterm goals. Moreover, grants direct each of our projects towards what the funders want rather than what the communities require. This makes each of our projects heavily reliant on the current motivation of funding agencies and the capacity of the team to find/renew grant applications. *How can we fund our projects towards community-driven solutions?*
 
+## Project reorientation suggestion
 Overall, I feel all our projects suffer because of inadequate strategies addressing the above three questions.  Therefore, I have not been forthcoming to involve in any of these projects until now. However, I am still invested in the purpose and mission each of our projects share. In my view, the non-profit organizational structure of each of our projects is currently incompatible to address these problems.
 
 I propose that we form a for-profit company with certain guiding principles that aligns with our purpose, fosters collaboration with each of our non-profit projects, showcases the ongoing technological development and acquires the necessary funding to retain a strong team that develops products sensitive to the respective location's requirements. I am willing to assume responsibility for the formation of such a company and up-skill myself accordingly. There are many business skills I lack, but this company will not just be me.
