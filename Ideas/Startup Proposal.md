@@ -23,3 +23,17 @@ However, executing these steps requires significant engineering expertise to car
 4. Ice Stupa fountains + Automation systems + Favourable location - 50+ million litres throughout year for all water needs - 5000 USD + Maintenance per year - 3 years
 5. Ice Terraces + Automation systems + Favourable location - 10+ million litres throughout year for all water needs - 5000 USD + Maintenance per year - 3 years
 6. Glacial Lakes + Automated Ice Reservoir Farms - 100+ million every year - 50000 USD - 5 years
+
+| Customer                | Need                           | Product                         | Profit margin | Current market size |
+| ----------------------- | ------------------------------ | ------------------------------- | ------------- | ------------------- |
+| Sustenance farmers/NGOs | Irrigation water supply        | Fountain                        | None          | ~30                 |
+| Commercial farmers      | Zero maintenance               | Automation kits                 | Low           | ~30                 |
+| Villages                | Tourism, Longterm water supply | Perpetual AIRs and Ice terraces | Medium        | ~10                 |
+| Governments             | GLOF prevention                | AIR farms and snow cables       | High          | ~6                  |
+| Mountain huts           | Drinking water supply          | Automation kits                 | High          | ~2                  |
+
+| Name                        | Water storage (million litres) | Expected cost | Development time |
+| --------------------------- | ------------------------------ | ------------- | ---------------- |
+| Icestupa fountains          | 2+                             | 100 USD       | 1 year           |
+| Icestupa automation kits    | 10+                            | 500 USD       | 2 years          |
+| Ice terrace automation kits | 50+                               |                |                  |
