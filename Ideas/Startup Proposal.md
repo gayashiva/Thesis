@@ -8,22 +8,7 @@ The next challenge, therefore, is to (a) scale the technology in size and (b) di
 
 However, executing these steps requires significant engineering expertise to carry out several iterations of technology development. Therefore, I propose that we build a startup to employ the necessary talent, fund the experiments and distribute the customised products based on the user location's topographical conditions and water demands. This startup will integrate with all the non-profit organizations currently engaged with this technology and its users. In this way, the startup will also be sensitive to the needs and demands of the customers and make its products cost-effective for the user base. The focus market that this startup serves its products are described briefly below:
 
-**Market (Customer-Need-Size-Profit margin)**
-1. Sustenance Farmers/NGOs -Irrigation water supply- 30 fountains - None
-2. Farmers-Zero Maintenance-30 Icestupa automation kits - Low
-3. Villages-Tourism, Longterm water supply-10 interested - Medium
-4. Foundations/Grants- Sponsorship, UN Sustainable development targets-10 interested - Medium
-5. Governments- Glacial lake outburst flood prevention-Sikkim, Nepal, Ladakh, Pakistan, Mongolia, Chile - High
-6. Mountain huts-Drinking water supply-1 interested - High
-
-**Products (Name-Water storage-Expected Cost-Development time)**
-1. Ice Stupa fountains - 1+ million litres during spring for irrigation - 100 USD - 1 year
-2. Ice Stupa fountains + Automation systems - 10+ million litres during spring for irrigation - 1000 USD - 2 years
-3. Ice Terraces - 10+ million litres during spring for irrigation - 2000 USD - 2 years
-4. Ice Stupa fountains + Automation systems + Favourable location - 50+ million litres throughout year for all water needs - 5000 USD + Maintenance per year - 3 years
-5. Ice Terraces + Automation systems + Favourable location - 10+ million litres throughout year for all water needs - 5000 USD + Maintenance per year - 3 years
-6. Glacial Lakes + Automated Ice Reservoir Farms - 100+ million every year - 50000 USD - 5 years
-
+## Market
 | Customer                | Need                           | Product                         | Profit margin | Current market size |
 | ----------------------- | ------------------------------ | ------------------------------- | ------------- | ------------------- |
 | Sustenance farmers/NGOs | Irrigation water supply        | Fountain                        | None          | ~30                 |
@@ -32,8 +17,11 @@ However, executing these steps requires significant engineering expertise to car
 | Governments             | GLOF prevention                | AIR farms and snow cables       | High          | ~6                  |
 | Mountain huts           | Drinking water supply          | Automation kits                 | High          | ~2                  |
 
-| Name                        | Water storage (million litres) | Expected cost | Development time |
-| --------------------------- | ------------------------------ | ------------- | ---------------- |
-| Icestupa fountains          | 2+                             | 100 USD       | 1 year           |
-| Icestupa automation kits    | 10+                            | 500 USD       | 2 years          |
-| Ice terrace automation kits | 50+                               |                |                  |
+## Product
+| Name                              | Water storage (million litres) | Expected cost     | Development time |
+| --------------------------------- | ------------------------------ | ----------------- | ---------------- |
+| Icestupa fountains                | 2+                             | 100 USD           | 1 year           |
+| Icestupa automation kits          | 10+                            | 500 USD           | 2 years          |
+| Ice terrace automation kits       | 50+                            | 2000 USD          | 3 years          |
+| AIR farms in favourable locations | 100+ per winter                | 1200 USD per year | 3 years          |
+| Glacial lake ice farms            | 1000+ per winter               | 4000 USD per year | 5 years          | 
