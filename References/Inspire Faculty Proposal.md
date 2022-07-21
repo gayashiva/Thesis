@@ -53,8 +53,8 @@ Nüsser et al. [30]. Ice stupas have been observed to last for two consecutive y
 However, most AIRs are neither so large or last so long.
 
 Based on this definition, we can define "artificial glaciers" as ice bodies that are both
-larger in area and last longer than two consecutive years. Manmade ice structures
-can, in theory, occupy any area provided for their construction. But can AIRs,
+larger in area and last longer than two consecutive years. Manmade ice terraces
+can, in theory, occupy any area provided for their construction. But can ice terrraces,
 like glaciers, also survive the summer and compound their size every consecutive
 winter?
 
@@ -67,6 +67,8 @@ icestupa does not disappear in summer and keeps growing from year to year. For
 year. Therefore, there exists weather conditions where they can last as long as the
 water supplies last (see Fig. 6.2). Paper III provides the datasets and methodology
 used to produce these simulations.
+
+Successfully creating such an artificial glacier could provide unprecedented scientific insights in the processes governing glacial dynamics. More importantly, it could pave the way for climate adaptation strategies.
 
 ## Research done so far
 
