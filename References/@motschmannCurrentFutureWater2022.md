@@ -21,4 +21,12 @@ year: 2022
 
 ---
 ## Takeaways
+Point 1 talks about all the reasons that make mountain water resource management challenging.
+Point 2 is a way to classify all water hazards
+Point 3 decribes the water cycle in [[Andes]] . It also indicates glacial water feeds springs.
+Point 4 defines [[water scarcity]]
+Point 5 quantifies Chicon water catchment runoff
+Point 7 explains connection between glaciers and [[water scarcity]]
+
+I can use points 1 and 7 to descibe [[Thesis]] problems and point 5 as an example water catchment for application of AIRs. 
 
