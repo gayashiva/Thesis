@@ -14,5 +14,6 @@ During fieldwork, we will be based in Ladakh ideally from October where we will 
 I am willing to pay 20,000 per month during fulltime employment. Accomodation, travel and flights in Ladakh will also be covered. The prototype development can be performed remotely. It is hard to both time and price this part of the work but we can discuss further about this.
 
 
-![[Icestupa_device_sketch.jpg]]
+![[Icestupa_device_sketch.jpg]|300]]
+
 
